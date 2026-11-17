@@ -1,7 +1,6 @@
 download
 *.o
 *.pcap
-*.pcapng
 
 readme.txt
 *.bin
